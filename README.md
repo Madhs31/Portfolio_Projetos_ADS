@@ -23,10 +23,10 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
   
  |   API  |    Descrição    |
  | :---         | :---      |
- | [1° Semestre]()   | Metodologia Ágil Scrum |
- | [2° Semestre]()   | MindDoc Analyzer - Software para automatizar a extração de informações de documentos usando modelos de linguagem e visão.  | 
- | [3° Semestre]()   | AdaTrade - Plataforma Web de Acompanhamento dos Resultados de Importação e Exportação dos Estados      | 
- | [4° Semestre]()   | AdaTech - Agente de Inteligência Artificial capaz de automatizar a elaboração da instrução de registro aduaneiro     | 
+ | [1° Semestre](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_1Sem)   | Metodologia Ágil Scrum |
+ | [2° Semestre](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_2Sem)   | MindDoc Analyzer - Software para automatizar a extração de informações de documentos usando modelos de linguagem e visão.  | 
+ | [3° Semestre](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_3Sem)   | AdaTrade - Plataforma Web de Acompanhamento dos Resultados de Importação e Exportação dos Estados      | 
+ | [4° Semestre](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_4Sem)   | AdaTech - Agente de Inteligência Artificial capaz de automatizar a elaboração da instrução de registro aduaneiro     | 
 
 > _Clique em uma opção acima para ser direcionado a pasta referente a entrega._
  

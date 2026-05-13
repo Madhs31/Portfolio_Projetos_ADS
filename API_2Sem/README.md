@@ -105,35 +105,43 @@ No escopo de organização e versionamento, utilizei ativamente o **Git** integr
   <table align="center">
     <tr>
       <th width="300px">Tecnologia / Metodologia</th>
+      <th width="200px">Nota</th>
       <th width="200px">Classificação</th>
     </tr>
     <tr>
       <td>Java (Lógica e OOP)</td>
       <td>★★★☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Maven & Automação de Build</td>
       <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>JUnit (Testes Unitários)</td>
       <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>MySQL (Modelagem e SQL)</td>
       <td>★★★☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Integração de IA (Ollama)</td>
-      <td>★★★☆☆</td>
+      <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>CSS3 & Figma</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Git / Jira / Trello</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
   </table>
 </details>

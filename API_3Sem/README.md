@@ -163,7 +163,7 @@ No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **J
     </tr>
     <tr>
       <td>Visão Sistêmica</td>
-      <td>★★★★★</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>Adaptabilidade</td>
@@ -175,11 +175,11 @@ No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **J
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★★</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★★</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
 </details>

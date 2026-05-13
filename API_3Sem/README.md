@@ -106,39 +106,48 @@ No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **J
   <table align="center">
     <tr>
       <th width="300px">Tecnologia / Metodologia</th>
+      <th width="200px">Nota</th>
       <th width="200px">Classificação</th>
     </tr>
     <tr>
       <td>Node.js & NestJS (API REST)</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Modelagem ORM</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Python & Data Prep</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>React & Vite</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>TypeScript</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>HTML5 / CSS3</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>UI Design & Prototipação</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomiaa</td>
     </tr>
     <tr>
       <td>Git / Metodologia Ágil</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
   </table>
 </details>

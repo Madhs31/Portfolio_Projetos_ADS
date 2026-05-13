@@ -31,19 +31,19 @@ O sistema foi desenhado de forma modular, separando a camada de persistência, a
 <div align="center">
   <table>
     <tr>
-      <th><img src="" alt="Início"></th>
-      <th><img src="" alt="Home"></th>
-      <th><img src="" alt="Cadastrar"></th>
+      <th><img src="/assets/img/Tela de Início.jpg" alt="Início"></th>
+      <th><img src="/assets/img/Home.jpg" alt="Home"></th>
+      <th><img src="/assets/img/Cadastrar documento.jpg" alt="Cadastrar"></th>
     </tr>
     <tr>
-      <td><img src="" alt="Passo 1"></td>
-      <td><img src="" alt="Passo 2"></td>
-      <td><img src="" alt="Editar"></td>
+      <td><img src="/assets/img/Cadastrar documento-1.jpg" alt="Passo 1"></td>
+      <td><img src="/assets/img/Cadastrar documento-2.jpg" alt="Passo 2"></td>
+      <td><img src="/assets/img/Editar documento.jpg" alt="Editar"></td>
     </tr>
     <tr>
-      <td><img src="" alt="Home Pós Cadastro"></td>
-      <td><img src="" alt="Consultar"></td>
-      <td><img src="" alt="Excluir"></td>
+      <td><img src="/assets/img/Home - após cadastro.jpg" alt="Home Pós Cadastro"></td>
+      <td><img src="/assets/img/Consultar registros.jpg" alt="Consultar"></td>
+      <td><img src="/assets/img/Excluindo relatório.jpg" alt="Excluir"></td>
     </tr>
   </table>
 </div>

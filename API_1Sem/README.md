@@ -131,15 +131,6 @@ Também desenvolvi melhorias na interface da aplicação, estruturando component
 <br>
 <br>
 
-## 🌐 Acesso ao Projeto
-
-O deploy da aplicação foi realizado em nuvem (AWS) e pode ser acessado pelo link abaixo:
-
-👉 **Acesse o site:** [http://aprendascrum.ddns.net:5000/](http://aprendascrum.ddns.net:5000/)  
-*(Nota: O funcionamento do link depende da disponibilidade ativa do servidor na AWS).*
-
----
-
 ## 📅 Entregas e Metodologia (Sprints)
 
 O projeto seguiu a metodologia ágil para seu próprio desenvolvimento, sendo estruturado e entregue de forma incremental ao longo de 4 Sprints:
@@ -148,5 +139,3 @@ O projeto seguiu a metodologia ágil para seu próprio desenvolvimento, sendo es
 * **Sprint 2:** Desenvolvimento das interfaces estáticas base, modelagem de banco de dados e rotas iniciais no Flask.
 * **Sprint 3:** Conexão com o banco de dados MySQL, aplicação de responsividade e inserção do conteúdo didático.
 * **Sprint 4:** Revisão geral, deploy do sistema na AWS, gravação de demonstrações e entrega da versão estável final.
-
-> 📁 *Para consultar os quadros originais de Sprints Backlog, Cronograma, Product Backlog e protótipos visuais, acesse a pasta [`assets/img/`](./assets/img/) neste repositório.*

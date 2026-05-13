@@ -69,30 +69,37 @@ Também desenvolvi melhorias na interface da aplicação, estruturando component
     <tr>
       <td>Python / Flask</td>
       <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>HTML5 / CSS3</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Bootstrap</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>MySQL</td>
       <td>★☆☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>Git / GitHub</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Figma (UI Design)</td>
       <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>Scrum (Dev Team)</td>
-      <td>★★★★☆</td>
+      <td>★☆☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
   </table>
 </details>
@@ -112,15 +119,15 @@ Também desenvolvi melhorias na interface da aplicação, estruturando component
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
+      <td>★★☆☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Resiliência</td>

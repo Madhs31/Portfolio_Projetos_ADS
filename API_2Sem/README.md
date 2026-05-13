@@ -48,7 +48,7 @@ O sistema foi desenhado de forma modular, separando a camada de persistência, a
   </table>
 </div>
 
-Confira os vídeos de demonstração da versão final (Sprint IV):
+Confira o vídeo de demonstração da versão final (Sprint IV):
 * 🖥️ **Demonstração:** [Clique para visualizar](https://github.com/user-attachments/assets/09271e88-c83b-4651-ac8e-a33ceca6f24e)
 
 

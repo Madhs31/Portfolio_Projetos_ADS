@@ -105,7 +105,7 @@ No escopo de organização e versionamento, utilizei ativamente o **Git** integr
   <table align="center">
     <tr>
       <th width="300px">Tecnologia / Metodologia</th>
-      <th width="200px">Nota</th>
+      <th width="100px">Nota</th>
       <th width="200px">Classificação</th>
     </tr>
     <tr>

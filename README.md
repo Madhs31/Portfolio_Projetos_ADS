@@ -29,7 +29,7 @@ Este repositório tem como objetivo centralizar e documentar todos os projetos d
 | **3º** | **AdaTrade** | *FATEC* | Plataforma Web para análise e acompanhamento de dados de importação e exportação dos estados brasileiros. | [🔗 Ver mais](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_3Sem) |
 | **4º** | **AdaTech** | *TecSys* | Aplicação de automação para criação de instruções de registro aduaneiro com validação legal. | [🔗 Ver mais](https://github.com/Madhs31/Portfolio_Projetos_ADS/tree/main/API_4Sem) |
 
->  *Clique no link da coluna **Documentação** para acessar o repositório completo e os artefatos de cada entrega.*
+>  *Clique no link da coluna **Ver mais** para acessar o repositório completo e os artefatos de cada entrega.*
 
 <br>
 

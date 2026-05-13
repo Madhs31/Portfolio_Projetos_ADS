@@ -113,30 +113,37 @@ No escopo operacional e de equipe, realizei o versionamento contínuo dos compon
     <tr>
       <td>Python & FastAPI (APIs de Alta Performance)</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Integração de IA & Search (Ollama / DuckDuckGo)</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>React, TypeScript & Vite</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Modelagem Transacional (PostgreSQL)</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Ecossistema Node.js</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>HTML5 / CSS3 / Figma</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Git / Jira / Slack (Orquestração Corporativa)</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
   </table>
 </details>

@@ -157,7 +157,7 @@ No escopo de organização e versionamento, utilizei ativamente o **Git** integr
     </tr>
     <tr>
       <td>Pensamento Analítico</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Qualidade e Atenção aos Detalhes</td>
@@ -169,11 +169,11 @@ No escopo de organização e versionamento, utilizei ativamente o **Git** integr
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
   </table>
 </details>

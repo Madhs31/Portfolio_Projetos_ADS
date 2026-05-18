@@ -142,7 +142,7 @@ No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **J
     <tr>
       <td>UI Design & Prototipação</td>
       <td>★★★★★</td>
-      <td>Sei fazer com autonomiaa</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Git / Metodologia Ágil</td>

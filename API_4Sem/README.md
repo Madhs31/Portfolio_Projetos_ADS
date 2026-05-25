@@ -1,8 +1,10 @@
 # 📦 AdaTech | API 4º Semestre - FATEC
 
+🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE4)
+
 ## 📌 Sobre o Projeto
 
-O **AdaTech** é uma aplicação corporativa desenvolvida como entrega da disciplina de **API (Aprendizagem por Projetos Integrados)** durante o 4º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
+O **AdaTech** é uma aplicação corporativa desenvolvida com base na metodologia **API (Aprendizagem por Projetos Integrados)** durante o 4º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
 
 O principal objetivo do software é **automatizar e auditar a criação da instrução de registro aduaneiro**, garantindo que todo o processo logístico seja executado de maneira ágil, segura e estritamente alinhada à legislação alfandegária vigente. Integrando Inteligência Artificial e enriquecimento de dados automatizado, o sistema simplifica fluxos de trabalho complexos, valida códigos fiscais (NCM) previamente e gera instruções precisas para mitigar erros documentais que causam multas severas no despacho aduaneiro.
 
@@ -182,6 +184,13 @@ No escopo operacional e de equipe, realizei o versionamento contínuo dos compon
 </details>
 <br>
 
+As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+
+* **Orientação ao Cliente (TecSys):** Por se tratar de um desafio real de mercado proposto pela TecSys, essa habilidade foi a chave para o desenvolvimento das interfaces. Foi necessário entender a fundo as necessidades dos operadores aduaneiros e estruturar fluxos visuais limpos e intuitivos, garantindo que os resultados gerados pelas auditorias de IA fossem exibidos de forma clara para mitigar erros em tempo real.
+* **Visão Arquitetural & Raciocínio Lógico:** Essencial para atuar com maestria no Front-end de um ecossistema baseado em microsserviços. Precisei aplicar um forte raciocínio lógico para traduzir os contratos complexos e múltiplos status retornados pela API em FastAPI, integrando esses dados de ponta a ponta no ecossistema de componentes em React e TypeScript com total segurança em tempo de execução.
+
+<br>
+
 ## 📅 Metodologia e Sprints
 
 O desenvolvimento baseou-se no framework **Scrum**, orquestrado via Jira e Slack, dividindo a complexidade do projeto corporativo em 4 Sprints focadas na agregação de valor contínua para a TecSys:
@@ -190,3 +199,6 @@ O desenvolvimento baseou-se no framework **Scrum**, orquestrado via Jira e Slack
 * **Sprint 2:** Modelagem relacional no PostgreSQL, setup do ambiente de microsserviços (FastAPI/Node.js) e criação do módulo de entrada de dados das cargas.
 * **Sprint 3:** Integração da esteira de validação por IA (Ollama + DuckDuckGo) com os formulários do Front-end em React/TypeScript.
 * **Sprint 4:** Geração automatizada da instrução de registro aduaneiro, testes rigorosos de consistência no fluxo de status, gravação das demonstrações e homologação final com a TecSys.
+
+---
+[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)

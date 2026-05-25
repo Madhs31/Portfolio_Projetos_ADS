@@ -1,5 +1,7 @@
 # 🧠 MindDoc Analyzer | API 2º Semestre - FATEC
 
+🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE2)
+
 ## 📌 Sobre o Projeto
 
 O **MindDoc Analyzer** é um software desenvolvido como entrega da disciplina de **API (Aprendizagem por Projetos Integrados)** durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
@@ -179,6 +181,13 @@ No escopo de organização e versionamento, utilizei ativamente o **Git** integr
 </details>
 <br>
 
+As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+
+* **Qualidade e Atenção aos Detalhes:** Trabalhar com dados sensíveis de saúde mental exigiu um alto grau de rigor. Essa habilidade foi essencial durante a criação de testes unitários com JUnit, garantindo que a lógica de negócio e o tratamento das informações processadas pela IA ocorressem sem falhas e com a máxima confiabilidade antes da integração final.
+* **Trabalho em Equipe:** O desenvolvimento modular do sistema exigiu sincronia total entre os desenvolvedores. Utilizando Jira e Trello, colaborei ativamente com o time Adalove para conectar o back-end em Java, a persistência no MySQL e a interface em CSS, garantindo que as entregas das Sprints se complementassem perfeitamente.
+
+<br>
+
 ## 📅 Metodologia e Sprints
 
 O desenvolvimento seguiu os pilares da metodologia ágil (**Scrum**), gerenciado através do Jira e Trello, dividindo o escopo do **MVP (Minimum Viable Product)** em 4 Sprints incrementais:
@@ -187,3 +196,6 @@ O desenvolvimento seguiu os pilares da metodologia ágil (**Scrum**), gerenciado
 * **Sprint 2:** Modelagem do banco de dados MySQL para os relatórios clínicos e implementação das primeiras entidades e serviços em Java.
 * **Sprint 3:** Conexão com o serviço do Ollama para processamento dos textos, implementação da interface visual e criação dos primeiros testes com JUnit.
 * **Sprint 4:** Cobertura final de testes unitários, refatoração de código, validação da extração inteligente de diagnósticos e entrega da versão final do software.
+
+---
+[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)

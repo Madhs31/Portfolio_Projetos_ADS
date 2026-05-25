@@ -139,6 +139,12 @@ Também desenvolvi melhorias na interface da aplicação, estruturando component
   </table>
 </details>
 <br>
+
+As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+
+* **Proatividade:** Foi fundamental para assumir a frente na estruturação da interface (HTML, CSS, Bootstrap) e propor soluções visuais. Em vez de esperar demandas totalmente detalhadas, busquei ativamente resolver os desafios de responsividade, otimizando componentes como o header e o footer para garantir o cumprimento das metas das Sprints.
+* **Trabalho em Equipe:** O desenvolvimento do sistema exigiu uma colaboração estreita entre os membros do time Adalove. Participar das dinâmicas ágeis permitiu que a integração entre o código back-end (Flask) e o front-end ocorresse de forma fluida, alinhando expectativas e dividindo responsabilidades para que o produto final agregasse valor ao cliente.
+
 <br>
 
 ## 📅 Entregas e Metodologia (Sprints)

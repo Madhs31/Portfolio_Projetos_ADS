@@ -16,7 +16,7 @@ Sou apaixonada por tecnologia, inovação e pelo desenvolvimento de soluções q
 
 ## 🎯 Objetivo do Repositório
 
-Este repositório tem como objetivo centralizar e documentar todos os projetos de **API (Aprendizagem por Projetos Integrados)** desenvolvidos ao longo da minha graduação. A cada semestre, um novo projeto integrador é construído em equipe para solucionar um desafio real proposto por uma empresa parceira, simulando o ambiente e as exigências do mercado de trabalho.
+Este repositório tem como objetivo centralizar e documentar todos os projetos desenvolvidos ao longo da minha graduação, com base na metodologia de Aprendizagem por Projetos Integrados (API), evidenciando a minha participação em cada um deles.
 
 <br>
 

@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **MindDoc Analyzer** é um software desenvolvido como entrega da disciplina de **API (Aprendizagem por Projetos Integrados)** durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
+O **MindDoc Analyzer** é um software desenvolvido com base na metodologia **API (Aprendizagem por Projetos Integrados)** durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
 
 O projeto atua no contexto da saúde mental, especificamente focado na otimização de rotinas em hospitais psiquiátricos e clínicas de psicologia. O objetivo do software é facilitar o acesso, a organização e a análise inteligente de dados extraídos de relatórios clínicos. Integrando Inteligência Artificial para processamento de linguagem natural, o sistema analisa textos médicos longos e extrai automaticamente informações cruciais — como sintomas, diagnósticos e respostas a tratamentos —, estruturando prontuários para apoiar uma tomada de decisão médica mais ágil e fundamentada.
 

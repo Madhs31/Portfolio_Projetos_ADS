@@ -1,8 +1,10 @@
 # 📈 AdaTrade | API 3º Semestre - FATEC
 
+🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE3)
+
 ## 📌 Sobre o Projeto
 
-O **AdaTrade** é uma Plataforma Web desenvolvida como entrega da disciplina de **API (Aprendizagem por Projetos Integrados)** durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
+O **AdaTrade** é uma Plataforma Web desenvolvida com base na metodologia de **API (Aprendizagem por Projetos Integrados)** durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
 
 O objetivo da aplicação é realizar o acompanhamento, filtragem e exibição de dados estratégicos de **importação e exportação dos estados brasileiros**. A plataforma transforma bases de dados brutas e complexas do comércio exterior em painéis visuais e relatórios dinâmicos, permitindo análises econômicas claras sobre a balança comercial, principais parceiros internacionais, rotas logísticas e categorias de produtos mais movimentadas por região.
 
@@ -44,8 +46,7 @@ O sistema foi estruturado no modelo de Single Page Application (SPA), separando 
 </div>
 
 Confira o vídeo de demonstração da versão final (Sprint IV):
-* 🖥️ **Demonstração:** 
-<div align="center">
+* 🖥️ **Demonstração:** <div align="center">
   <video src="https://github.com/user-attachments/assets/5b22543a-625d-454c-a67b-ff6f0971a1fb" width="600" controls>
   </video>
 </div>
@@ -185,6 +186,13 @@ No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **J
 </details>
 <br>
 
+As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+
+* **Visão Sistêmica:** Fundamental para o meu papel de integração Full-Stack. Para fazer o mapa interativo funcionar, precisei compreender o fluxo completo da aplicação, desde como os dados eram estruturados e expostos pela API no NestJS até como o Front-end em React consumia e gerenciava o estado dessas informações para exibi-las visualmente ao usuário.
+* **Adaptabilidade:** A transição para uma stack robusta baseada em TypeScript, Node.js e React exigiu um aprendizado contínuo. Tive que me adaptar rapidamente à tipagem estática e à lógica de componentização do React para garantir a entrega e a performance da visualização geográfica dentro do prazo das Sprints.
+
+<br>
+
 ## 📅 Metodologia e Sprints
 
 O projeto foi gerenciado e entregue seguindo o framework **Scrum**, estruturado em 4 Sprints focadas na agregação contínua de valor ao produto:
@@ -193,3 +201,6 @@ O projeto foi gerenciado e entregue seguindo o framework **Scrum**, estruturado 
 * **Sprint 2:** Implementação do Front-end em TypeScript/React, criação dos componentes visuais e desenvolvimento dos endpoints de consulta no Back-end.
 * **Sprint 3:** Integração completa entre Front-end e Back-end, aplicação dos filtros combinados por Estado/Produto e renderização dos gráficos de importação/exportação.
 * **Sprint 4:** Otimização das consultas ao banco para grandes volumes de dados, polimento da interface, testes finais de responsividade e entrega final da solução.
+
+---
+[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)

@@ -1,8 +1,10 @@
 # 🎯 Aprenda Scrum | API 1º Semestre - FATEC
 
+🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE1)
+
 ## 📌 Sobre o Projeto
 
-O **Aprenda Scrum** é um Sistema Web dinâmico e gamificado desenvolvido como entrega da disciplina de **API (Aprendizagem por Projetos Integrados)** durante o 1º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
+O **Aprenda Scrum** é um Sistema Web dinâmico e gamificado desenvolvido com base na metodologia de **API (Aprendizagem por Projetos Integrados)** durante o 1º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
 
 O objetivo central da aplicação é facilitar o processo de ensino e aprendizagem da **Metodologia Ágil Scrum** de uma maneira prática, visual e engajadora. O software foi pensado para auxiliar estudantes e profissionais que estão dando os primeiros passos no universo ágil, detalhando pilares, papéis (Scrum Team), artefatos e cerimônias.
 
@@ -147,3 +149,6 @@ O projeto seguiu a metodologia ágil para seu próprio desenvolvimento, sendo es
 * **Sprint 2:** Desenvolvimento das interfaces estáticas base, modelagem de banco de dados e rotas iniciais no Flask.
 * **Sprint 3:** Conexão com o banco de dados MySQL, aplicação de responsividade e inserção do conteúdo didático.
 * **Sprint 4:** Revisão geral, deploy do sistema na AWS, gravação de demonstrações e entrega da versão estável final.
+
+---
+[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)

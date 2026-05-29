@@ -72,17 +72,9 @@ Este repositório tem como objetivo centralizar e documentar todos os projetos d
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
+
 ## 📫 Informações de Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Madhs31" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 * 🔗 LinkedIn: www.linkedin.com/in/mariafernandadiniz
 * 💻 GitHub: https://github.com/Madhs31

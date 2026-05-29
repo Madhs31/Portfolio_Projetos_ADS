@@ -16,9 +16,6 @@ O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, tendo 
 
 O sistema conta com uma interface totalmente responsiva, adaptada para uso tanto em computadores quanto em dispositivos móveis, contendo trilhas de aprendizagem e exploração interativa dos conceitos do framework Scrum.
 
-### Protótipo Figma:
-<img src="/assets/img/Telas.jpg">
-
 Confira os vídeos de demonstração da versão final (Sprint IV):
 * 🖥️ **Demonstração PC:** [Assistir no YouTube](https://youtu.be/BXuAjkixi2U)
 * 📱 **Visualização Mobile:** [Assistir no YouTube](https://youtu.be/n23-EapXdbE)

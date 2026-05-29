@@ -2,14 +2,19 @@
 
 ## 📌 Sobre mim
 
+
 <div align="justify">
-Meu nome é Maria Fernanda Diniz Hansen de Souza e sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas na FATEC. Ao longo da minha trajetória acadêmica, venho consolidando conhecimentos em desenvolvimento de software, modelagem de bancos de dados, criação de APIs RESTful, interfaces web, infraestrutura e geotecnologias, sempre buscando unir base teórica e aplicação prática em projetos reais.
+Meu nome é Maria Fernanda Diniz Hansen de Souza, tenho 21 anos e sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas na FATEC. Ao longo da minha trajetória acadêmica, venho consolidando conhecimentos em desenvolvimento de software, modelagem de bancos de dados, criação de APIs RESTful, interfaces web, infraestrutura e geotecnologias, sempre buscando unir base teórica e aplicação prática em projetos reais.
 
 Durante a graduação, atuo ativamente em projetos acadêmicos voltados à resolução de problemas reais de parceiros do mercado, aplicando metodologias ágeis (Scrum) e tecnologias modernas. Essas experiências impulsionaram não apenas minhas hard skills, mas também competências essenciais como trabalho em equipe, organização, comunicação e pensamento analítico.
 
 Atualmente, realizo estágio na empresa **Optimus - Geosolutions for Life**, onde atuo com suporte e análise de sistemas, manipulação de dados geográficos, administração de bancos de dados e soluções voltadas a GIS (Sistemas de Informação Geográfica). Essa vivência tem sido fundamental para o meu amadurecimento técnico e profissional.
 
 Sou apaixonada por tecnologia, inovação e pelo desenvolvimento de soluções que gerem impacto positivo e otimização de processos. Meu objetivo é continuar evoluindo, aprofundando minha expertise técnica e contribuindo de forma eficiente e criativa para os projetos em que me envolvo.
+</div>
+
+<div align="center">
+  <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/7db9fd9f-3dc2-48e9-965f-7e63eba4f481" />
 </div>
 
 <br>
@@ -66,3 +71,18 @@ Este repositório tem como objetivo centralizar e documentar todos os projetos d
   <img alt="Wireguard" src="https://img.shields.io/badge/Wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 📫 Informações de Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Madhs31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+* 🔗 LinkedIn: www.linkedin.com/in/mariafernandadiniz
+* 💻 GitHub: https://github.com/Madhs31

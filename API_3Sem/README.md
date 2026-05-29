@@ -28,23 +28,6 @@ O sistema foi estruturado no modelo de Single Page Application (SPA), separando 
 [🔗 Leia mais sobre a arquitetura do software na Wiki!](https://github.com/equipeAdalove/API-SEMESTRE3/wiki) 
 </div>
 
-### 🎨 Protótipo Figma
-<a id="prototipo"></a>
-<div align="center">
-  <table>
-    <tr>
-      <th><img src="/assets/img/Final - Dashboard (Light) (1).png" alt="Dashboard (Light)"></th>
-      <th><img src="/assets/img/Final - Mapa(Light).png" alt="Mapa(Light)"></th>
-      <th><img src="/assets/img/Final - NCM (Light).png" alt="NCM (Light)"></th>
-    </tr>
-    <tr>
-      <td><img src="/assets/img/Final - Dashboard (Dark) (1).png" alt="Dashboard (Dark)"></td>
-      <td><img src="/assets/img/Final - Mapa(Dark).png" alt="Mapa(Dark)"></td>
-      <td><img src="/assets/img/Final - NCM (Dark).png" alt="NCM (Dark)"></td>
-    </tr>
-  </table>
-</div>
-
 Confira o vídeo de demonstração da versão final (Sprint IV):
 * 🖥️ **Demonstração:** <div align="center">
   <video src="https://github.com/user-attachments/assets/5b22543a-625d-454c-a67b-ff6f0971a1fb" width="600" controls>

@@ -27,28 +27,6 @@ A arquitetura do <b>AdaTech</b> foi projetada para suportar alta concorrência e
 [🔗 Leia mais sobre a arquitetura do software na Wiki!](https://github.com/equipeAdalove/API-SEMESTRE4/wiki) 
 </div>
 
-### 🎨 Protótipo Figma
-<a id="prototipo"></a>
-<div align="center">
-  <table>
-    <tr>
-      <th><img src="/assets/img/Inicio - Dark mode.png" alt="Início"></th>
-      <th><img src="/assets/img/Criar conta - Dark mode.png" alt="Criar Conta"></th>
-      <th><img src="/assets/img/Login - Dark mode.png" alt="Login"></th>
-    </tr>
-    <tr>
-      <td><img src="/assets/img/Verificação - Dark mode.png" alt="Verificação"></td>
-      <td><img src="/assets/img/Tela%20Principal%20-%20%20Dark%20mode.png" alt="Tela Principal"></td>
-      <td><img src="/assets/img/Perfil%20-%20%20Dark%20mode.png" alt="Perfil"></td>
-    </tr>
-    <tr>
-      <td><img src="/assets/img/Tela Submissão - Dark mode.png" alt="Tela Submissão"></td>
-      <td><img src="/assets/img/Tela%20Histórico%20-%20%20Dark%20mode.png" alt="Histórico"></td>
-      <td><img src="/assets/img/Tela Saida e Edição- Dark mode.png" alt="Saída e Edição"></td>
-    </tr>
-  </table>
-</div>
-
 Confira a demonstração completa das funcionalidades entregues na versão final (Sprint IV):
 
 * 🖥️ **Demonstração:**

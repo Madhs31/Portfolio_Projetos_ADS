@@ -1,149 +1,175 @@
-<div align="center">
+# 🎯 Aprenda Scrum | API 1º Semestre - FATEC
 
-<img width="916" alt="Banner do projeto Aprenda Scrum" src="https://github.com/user-attachments/assets/e39a1af2-7d20-4aa2-a733-06e5144e4bef" />
+🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE1)
 
-API do 1º semestre · Análise e Desenvolvimento de Sistemas · FATEC SJC
+## 📌 Sobre o Projeto
 
-<br>
+O **Aprenda Scrum** é um Sistema Web dinâmico e gamificado desenvolvido com base na metodologia de **API (Aprendizagem por Projetos Integrados)** durante o 1º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
 
-<img alt="Status: concluído" src="https://img.shields.io/badge/Status-Concluído-8957E5?style=for-the-badge" />
-<img alt="Projeto acadêmico" src="https://img.shields.io/badge/Projeto-Acadêmico-6E40C9?style=for-the-badge" />
-<img alt="Atuação: full-stack" src="https://img.shields.io/badge/Atuação-Full_Stack-A371F7?style=for-the-badge" />
+O objetivo central da aplicação é facilitar o processo de ensino e aprendizagem da **Metodologia Ágil Scrum** de uma maneira prática, visual e engajadora. O software foi pensado para auxiliar estudantes e profissionais que estão dando os primeiros passos no universo ágil, detalhando pilares, papéis (Scrum Team), artefatos e cerimônias.
 
-</div>
+## 🏢 Parceiro de Negócios (Cliente)
 
-<a id="sobre"></a>
+O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, tendo como responsável pelos requisitos o professor Antonio Egydio.
 
-## 📌 Sobre o projeto
+A proposta foi conduzida dentro do ambiente acadêmico, simulando demandas reais de mercado, com foco na aplicação prática da metodologia ágil SCRUM durante o desenvolvimento do sistema.
 
-O **Aprenda Scrum** é uma aplicação web educacional, dinâmica e gamificada, desenvolvida por meio da **API — Aprendizagem por Projetos Integrados**, durante o 1º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos — Prof. Jessen Vidal**.
+## 🚀 Funcionalidades e Demonstração
 
-Seu objetivo é facilitar o aprendizado do **framework Scrum** de maneira prática, visual e interativa. A plataforma foi pensada para estudantes e profissionais que estão dando os primeiros passos no universo ágil, apresentando seus pilares, papéis, artefatos e eventos.
+O sistema conta com uma interface totalmente responsiva, adaptada para uso tanto em computadores quanto em dispositivos móveis, contendo trilhas de aprendizagem e exploração interativa dos conceitos do framework Scrum.
 
-> 💡 Aprender Scrum enquanto aplicávamos Scrum: o projeto também foi organizado em Sprints, com colaboração entre os integrantes e entregas incrementais.
+Confira os vídeos de demonstração da versão final (Sprint IV):
 
-## 🏢 Parceiro de negócios
+- 🖥️ **Demonstração PC:** [Assistir no YouTube](https://youtu.be/BXuAjkixi2U)
+- 📱 **Visualização Mobile:** [Assistir no YouTube](https://youtu.be/n23-EapXdbE)
 
-| Informação | Descrição |
-| :--- | :--- |
-| **Instituição** | FATEC São José dos Campos — Prof. Jessen Vidal |
-| **Responsável pelos requisitos** | Professor Antonio Egydio |
-| **Contexto** | Projeto acadêmico com simulação de demandas reais de mercado |
-| **Equipe** | AdaLove |
+## 💻 Tecnologias Utilizadas
 
-<a id="funcionalidades"></a>
-
-## 🚀 Funcionalidades
-
-- 📚 **Módulos de estudo:** conteúdos organizados para apresentar os conceitos do Scrum.
-- 🧩 **Quizzes:** atividades para revisar o conteúdo e avaliar o aprendizado.
-- 🧭 **Navegação entre módulos:** exploração dos conteúdos de maneira estruturada.
-- 📱 **Interface responsiva:** adaptação para computadores e dispositivos móveis.
-
----
-
-<a id="cronograma"></a>
-
-## 📅 Cronograma
-
-| **Eventos** | **Datas** |
-| :--- | :---: |
-| 💡 **Kick-off** | 12/03/2024 |
-| 💻 **Desenvolvimento** | 25/03/24 – 16/06/24 |
-| 🎯 **Feira de soluções** | 27/06/2024 |
-
-<a id="prototipo"></a>
-
-## 🪞 Protótipo
-
-Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a proposta visual das páginas e apoiar a validação do layout e da navegação.
-
-<div align="center">
-
-<a href="https://github.com/raphaelamonteiro/aprenda-scrum/blob/main/assets/img/Telas.jpg">
-  <img
-    src="https://raw.githubusercontent.com/raphaelamonteiro/aprenda-scrum/main/assets/img/Telas.jpg"
-    alt="Telas do protótipo da plataforma Aprenda Scrum"
-    width="100%"
-  />
-</a>
-
-<br>
-
-<sub>Protótipo da aplicação · Equipe AdaLove · Clique na imagem para ampliar</sub>
-
-</div>
-
-<a id="demonstracao"></a>
-
-## 🎥 Demonstração
-
-Confira a versão final do sistema, apresentada na **Sprint IV**:
-
-<div align="center">
-
-<a href="https://youtu.be/BXuAjkixi2U">
-  <img alt="Assistir à demonstração para computador" src="https://img.shields.io/badge/Demonstração-Computador-8957E5?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://youtu.be/n23-EapXdbE">
-  <img alt="Assistir à demonstração para celular" src="https://img.shields.io/badge/Demonstração-Mobile-6E40C9?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<a id="atuacao"></a>
-
-## 👩‍💻 Minha atuação
-
-### Desenvolvedora Full Stack · Dev Team
-
-Atuei como **desenvolvedora full-stack na equipe AdaLove**, contribuindo para o desenvolvimento do back-end com **Python e Flask** e para a construção das interfaces com **HTML, CSS, Bootstrap e JavaScript**.
-
-Meu trabalho teve foco na organização visual das páginas, na responsividade e na navegação entre os conteúdos da plataforma.
-
-| Frente | Minhas contribuições |
-| :--- | :--- |
-| **🖥️ Interfaces** | Construção e aprimoramento das páginas utilizando HTML, CSS e Bootstrap. |
-| **🧱 Componentes compartilhados** | Estruturação e padronização de elementos como header e footer. |
-| **📄 Páginas institucionais** | Desenvolvimento de interfaces de apresentação e contextualização da aplicação. |
-| **📱 Responsividade** | Ajustes nos layouts e componentes para diferentes tamanhos de tela. |
-| **🧭 Navegação** | Implementação de navegação dinâmica e personalização visual da navbar para facilitar a transição entre os módulos. |
-| **⚙️ Back-end** | Contribuições no desenvolvimento com Flask e na integração entre as interfaces e a aplicação. |
-
-<a id="tecnologias"></a>
-
-## 💻 Tecnologias utilizadas
-
-### 🖥️ Front-end
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+O projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 
 ### ⚙️ Back-end
 
-<p>
+<p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### 🗄️ Banco de dados e infraestrutura
+### 🖥️ Front-end
 
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" />
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Banco de Dados & Deploy
+
+<p align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
 </p>
 
 ### 🛠️ Ferramentas
 
-<p>
+<p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+## Contribuições Pessoais
+
+Atuei como desenvolvedora full-stack no time Adalove, trabalhando no desenvolvimento do back-end com Flask e na construção das interfaces utilizando HTML, CSS, Bootstrap e JavaScript.
+
+Também desenvolvi melhorias na interface da aplicação, estruturando componentes padronizados como header, footer e páginas institucionais com forte foco em responsividade para diferentes tamanhos de tela.
+
+Além disso, implementei funcionalidades de navegação dinâmica e personalização visual da navbar para otimizar a transição entre os módulos de estudo.
+
+### Hard Skills
+
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+
+  <br>
+
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia / Metodologia</th>
+      <th width="100px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python / Flask</td>
+      <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+    <tr>
+      <td>HTML5 / CSS3</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Bootstrap</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★☆☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+    <tr>
+      <td>Git / GitHub</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Figma (UI Design)</td>
+      <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+    <tr>
+      <td>Scrum (Dev Team)</td>
+      <td>★☆☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+  </table>
+</details>
+
+### Soft Skills
+
+<details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+
+  <br>
+
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+
+- **Proatividade:** Foi fundamental para assumir a frente na estruturação da interface (HTML, CSS, Bootstrap) e propor soluções visuais. Em vez de esperar demandas totalmente detalhadas, busquei ativamente resolver os desafios de responsividade, otimizando componentes como o header e o footer para garantir o cumprimento das metas das Sprints.
+
+- **Trabalho em Equipe:** O desenvolvimento do sistema exigiu uma colaboração estreita entre os membros do time Adalove. Participar das dinâmicas ágeis permitiu que a integração entre o código back-end (Flask) e o front-end ocorresse de forma fluida, alinhando expectativas e dividindo responsabilidades para que o produto final agregasse valor ao cliente.
+
+<br>
+
+## 📅 Entregas e Metodologia (Sprints)
+
+O projeto seguiu a metodologia ágil para seu próprio desenvolvimento, sendo estruturado e entregue de forma incremental ao longo de 4 Sprints:
+
+- **Sprint 1:** Estruturação inicial, definição do Product Backlog, criação de wireframes e identidade visual.
+- **Sprint 2:** Desenvolvimento das interfaces estáticas base, modelagem de banco de dados e rotas iniciais no Flask.
+- **Sprint 3:** Conexão com o banco de dados MySQL, aplicação de responsividade e inserção do conteúdo didático.
+- **Sprint 4:** Revisão geral, deploy do sistema na AWS, gravação de demonstrações e entrega da versão estável final.
+
+---
+
+[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)

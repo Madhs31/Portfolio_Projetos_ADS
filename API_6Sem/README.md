@@ -2,8 +2,6 @@
 
 🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/Titus-System/synapse)
 
-> 🚧 Projeto em desenvolvimento, com apresentação prevista para 03/12/2026.
-
 ## 📌 Sobre o Projeto
 
 O **Synapse** é uma aplicação web desenvolvida com base na metodologia **API (Aprendizagem por Projetos Integrados)** durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos — Prof. Jessen Vidal**, pela equipe **Titus Systems**.

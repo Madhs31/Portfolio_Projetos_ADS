@@ -1,10 +1,11 @@
+
 # 💬 SyncDesk | API 5º Semestre — FATEC
 
 🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/Titus-System/SyncDesk)
 
 ## 📌 Sobre o Projeto
 
-O **SyncDesk** é um sistema de atendimento desenvolvido com base na metodologia **API (Aprendizagem por Projetos Integrados)** durante o 5º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos — Prof. Jessen Vidal**, pela equipe **Titus Systems**.
+O **SyncDesk** é um sistema de atendimento desenvolvido com base na metodologia **API (Aprendizagem por Projetos Integrados)** durante o 5º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos — Prof. Jessen Vidal**, pela equipe **Titus System**.
 
 O principal objetivo da solução é **centralizar o atendimento ao cliente por meio de um chat estruturado**, com triagem automatizada, registro do histórico das interações e acompanhamento do ciclo de vida dos chamados.
 
@@ -60,6 +61,8 @@ Confira a demonstração da **Sprint 1**, disponibilizada no repositório da equ
 
 ## 💻 Tecnologias Utilizadas
 
+As tecnologias abaixo correspondem ao conjunto de ferramentas utilizadas pela equipe. Minha atuação individual concentrou-se no SyncDesk Web.
+
 ### ⚙️ Back-end e Integração
 
 <p align="left">
@@ -108,7 +111,7 @@ Confira a demonstração da **Sprint 1**, disponibilizada no repositório da equ
 
 ## 📌 Contribuições Pessoais
 
-Atuei como **desenvolvedora front-end** no Dev Team da equipe **Titus Systems**, com foco no **SyncDesk Web**, aplicação destinada aos atendentes e administradores da plataforma. Minha participação abrangeu a estruturação inicial do projeto, o desenvolvimento das interfaces e a integração com os serviços do back-end.
+Atuei como **desenvolvedora front-end** no Dev Team da equipe **Titus System**, com foco no **SyncDesk Web**, aplicação destinada aos atendentes e administradores da plataforma. Minha participação abrangeu a estruturação inicial do projeto, o desenvolvimento das interfaces e a integração com os serviços do back-end.
 
 Configurei o ambiente de desenvolvimento com **React, Vite, Tailwind CSS e ESLint** e participei da construção das telas de login, cadastro, chat e gerenciamento de chamados. Ao longo das entregas, aprimorei a organização dos componentes, das rotas e dos layouts, buscando manter a consistência visual e facilitar a manutenção da aplicação.
 
@@ -118,7 +121,23 @@ Atuei na reestruturação das telas de edição de usuários e dos perfis de ace
 
 Durante todo o desenvolvimento, utilizei **Git e GitHub** para versionar as alterações, integrar entregas entre branches e resolver conflitos, colaborando para a evolução conjunta da aplicação.
 
+### 🎯 Principais Entregas
+
+- Configuração do ambiente React, Vite, Tailwind CSS e ESLint;
+- Desenvolvimento das telas de login, cadastro, chat e gerenciamento de chamados;
+- Organização de rotas, layouts e componentes reutilizáveis;
+- Integração com os hooks da biblioteca SyncDesk e configuração do token de acesso;
+- Criação, consulta, edição e exclusão de notas nos chamados;
+- Aprimoramento da interface de edição dos atendimentos;
+- Reestruturação das telas de usuários e perfis de acesso;
+- Integração dos níveis de atendimento;
+- Estruturação da página de relatórios e ajustes de filtros;
+- Padronização de componentes do design system;
+- Integração de notificações e modal de documentação com acesso ao GitHub;
+- Versionamento, integração de branches e resolução de conflitos.
+
 <h3>Hard Skills</h3>
+
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
@@ -167,6 +186,7 @@ Durante todo o desenvolvimento, utilizei **Git e GitHub** para versionar as alte
 </details>
 
 <h3>Soft Skills</h3>
+
 <details>
   <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
@@ -197,13 +217,20 @@ Durante todo o desenvolvimento, utilizei **Git e GitHub** para versionar as alte
     </tr>
   </table>
 </details>
+
 <br>
 
-As atividades realizadas permitem destacar duas habilidades comportamentais relacionadas à minha participação:
+As atividades realizadas permitem destacar as seguintes habilidades comportamentais relacionadas à minha participação:
 
 - **Trabalho em equipe:** a integração da interface com a biblioteca compartilhada e os serviços exigiu atenção às alterações produzidas pelos demais integrantes. A resolução de conflitos e a manutenção dos fluxos de usuários e chamados fizeram parte desse trabalho conjunto.
 
 - **Resolução de problemas:** os ajustes nos hooks, nos filtros de relatórios, nos níveis de atendimento e nos componentes visuais exigiram analisar o comportamento da aplicação e adequar as interfaces às necessidades do sistema.
+
+- **Comunicação assertiva:** a integração com a biblioteca compartilhada e com os serviços exigiu alinhamento sobre os hooks, contratos e fluxos da aplicação.
+
+- **Adaptabilidade e raciocínio lógico:** a reestruturação das telas de usuários, dos níveis de atendimento e dos filtros de relatórios exigiu compreender as regras existentes e adaptar os componentes.
+
+- **Orientação ao cliente:** a construção das interfaces de atendimento e administração exigiu atenção à clareza das informações e à organização das funcionalidades.
 
 ## 📅 Metodologia e Sprints
 
@@ -216,8 +243,20 @@ O desenvolvimento seguiu o framework **Scrum**, com reuniões diárias, revisõe
 | Sprint 2 | 03/05/2026 | Recursos administrativos, gestão de usuários, monitoramento e pesquisa no histórico de conversas |
 | Sprint 3 | 31/05/2026 | Alertas visuais, dashboards, gráficos de auditoria e avaliação do atendimento |
 
-O cronograma também registra a Feira de Soluções para **25/06/2026**. A realização dessa etapa não é confirmada pelo status apresentado no README da equipe.
+O cronograma oficial registra a Feira de Soluções para **25/06/2026**. A data corresponde ao planejamento documentado pela equipe.
+
+[Consultar os registros oficiais das entregas](https://github.com/Titus-System/SyncDesk)
+
+## 📚 Aprendizados
+
+O SyncDesk possibilitou aprofundar meus conhecimentos em React, JavaScript, Tailwind CSS, arquitetura front-end e construção de interfaces corporativas.
+
+A organização das rotas, layouts e componentes reforçou a importância da reutilização de código e da consistência visual.
+
+A integração com a biblioteca compartilhada ampliou minha compreensão sobre hooks, consumo de APIs e gerenciamento de tokens.
+
+O desenvolvimento de notas, usuários, níveis de atendimento e relatórios permitiu entender melhor a implementação de regras de negócio na interface, contribuindo para minha evolução e para os desafios full-stack do semestre seguinte.
 
 ---
 
-[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)
+[⬅️ Voltar para o Menu Principal](../README.md)

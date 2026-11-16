@@ -3,11 +3,6 @@
 
 🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE1)
 
-> 👩‍💻 **Minha atuação:** Desenvolvedora full-stack — Dev Team  
-> 👥 **Equipe:** AdaLove  
-> 📅 **Período:** 2024-1  
-> ✅ **Status:** Concluído
-
 ## 📌 Sobre o Projeto
 
 O **Aprenda Scrum** é uma aplicação web interativa e gamificada desenvolvida durante o primeiro semestre de ADS na FATEC São José dos Campos. Seu objetivo é facilitar a aprendizagem do Scrum por estudantes e profissionais iniciantes, apresentando os pilares, valores, responsabilidades, eventos e artefatos do framework por meio de módulos educacionais.

@@ -1,189 +1,169 @@
-# 📈 AdaTrade | API 3º Semestre - FATEC
+
+# 📈 AdaTrade | API 3º Semestre — FATEC
 
 🔗 **Repositório do Projeto (Equipe):** [Acessar GitHub](https://github.com/equipeAdalove/API-SEMESTRE3)
 
 ## 📌 Sobre o Projeto
 
-O **AdaTrade** é uma Plataforma Web desenvolvida com base na metodologia de **API (Aprendizagem por Projetos Integrados)** durante o 3º semestre do curso de Análise e Desenvolvimento de Sistemas da **FATEC São José dos Campos - Prof. Jessen Vidal**.
+O **AdaTrade** é uma plataforma web desenvolvida durante o terceiro semestre de ADS para organizar e apresentar dados de importação e exportação dos estados brasileiros.
 
-O objetivo da aplicação é realizar o acompanhamento, filtragem e exibição de dados estratégicos de **importação e exportação dos estados brasileiros**. A plataforma transforma bases de dados brutas e complexas do comércio exterior em painéis visuais e relatórios dinâmicos, permitindo análises econômicas claras sobre a balança comercial, principais parceiros internacionais, rotas logísticas e categorias de produtos mais movimentadas por região.
+A solução transforma bases de comércio exterior em indicadores, filtros, gráficos e visualizações geográficas, permitindo explorar informações econômicas por região e período.
 
 ## 🏢 Parceiro de Negócios (Cliente)
 
-O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, tendo como responsável pelos requisitos o professor Marcus Nascimento. A proposta foi conduzida em ambiente acadêmico, simulando um cenário real de mercado com foco na análise de dados massivos de comércio exterior e no desenvolvimento de uma plataforma web de alta performance para o apoio à tomada de decisão estratégica.
+O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, tendo como cliente o professor **Marcus Nascimento**, do curso de Logística da FATEC. O desafio consistiu em organizar grandes volumes de dados de comércio exterior e apresentá-los de forma acessível em uma aplicação web.
 
 ## 🚀 Funcionalidades e Demonstração
 
-* 📊 **Dashboards Interativos:** Visualização gráfica do volume de importações e exportações por estado e período.
-* 🔍 **Filtros Avançados:** Segmentação de dados por unidades federativas (UF), NCM (Nomenclatura Comum do Mercosul), valores financeiros e peso líquido.
-* 📈 **Análise de Balança Comercial:** Comparativos automáticos para identificar superávits ou déficits comerciais regionais.
-* 🗺️ **Mapeamento de Dados:** Relatórios consolidados que facilitam a extração de inteligência de mercado para tomadores de decisão.
-  
-### 🛠️ Arquitetura do Sistema 
+- 📊 **Dashboards:** apresentação dos dados de importação e exportação.
+- 🔍 **Filtros:** consulta das informações por unidade federativa, período (2014–2024), setor econômico e classificação NCM.
+- 📈 **Balança comercial:** comparação de resultados de importação e exportação.
+- 🗺️ **Mapa interativo:** seleção dos estados brasileiros e visualização dos dados associados.
+- 📦 **Indicadores:** exploração de informações como valor financeiro e peso líquido.
+- 🚚 **Modais de transporte:** visualização das exportações por meio de transporte.
+- 📥 **Exportação de dados:** disponibilização de informações para análises externas.
+
+### 🛠️ Arquitetura do Sistema
+
 <a id="arq"></a>
-<div>
-A arquitetura do <b>AdaTrade</b> precisou contornar o desafio de processar e exibir milhares de registros históricos alfandegários sem comprometer o tempo de carregamento da interface no navegador do usuário. <br>
-O sistema foi estruturado no modelo de Single Page Application (SPA), separando completamente a camada de apresentação visual (Front-end) da camada de agregação e processamento de dados (API RESTful no Back-end).
 
-[🔗 Leia mais sobre a arquitetura do software na Wiki!](https://github.com/equipeAdalove/API-SEMESTRE3/wiki) 
-</div>
+A aplicação foi estruturada como uma Single Page Application (SPA) com front-end React e TypeScript, separado da API REST desenvolvida com Node.js e NestJS. O Prisma ORM auxilia no acesso aos dados do PostgreSQL, enquanto Python é utilizado no tratamento das bases de comércio exterior.
 
-Confira o vídeo de demonstração da versão final (Sprint IV):
-* 🖥️ **Demonstração:** <div align="center">
-  <video src="https://github.com/user-attachments/assets/5b22543a-625d-454c-a67b-ff6f0971a1fb" width="600" controls>
-  </video>
-</div>
+| Camada | Responsabilidade |
+|---|---|
+| Preparação de dados | Tratamento e organização das bases em Python. |
+| Persistência | Armazenamento em PostgreSQL. |
+| API REST | Consultas e disponibilização de dados com NestJS e Prisma. |
+| Front-end | Indicadores, gráficos, filtros e mapa interativo com React. |
+
+[🔗 Consultar documentação técnica e manual do usuário](https://github.com/equipeAdalove/API-SEMESTRE3/tree/Sprint-3/Documenta%C3%A7%C3%A3o)
+
+### 🖥️ Demonstração
+
+Confira a demonstração da versão final (Sprint III):
+
+https://github.com/user-attachments/assets/5b22543a-625d-454c-a67b-ff6f0971a1fb
 
 ## 💻 Tecnologias Utilizadas
 
-Para suportar o processamento de dados e entregar uma experiência de usuário fluida, o projeto foi dividido em arquitetura moderna de microsserviços/APIs desacopladas:
+Tecnologias e ferramentas utilizadas pela equipe na construção do projeto. Minha atuação individual é detalhada na seção de contribuições pessoais.
 
-### ⚙️ Back-end & ORM
+### ⚙️ Back-end e ORM
+
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### 🔬 Ciência de Dados & Processamento
+### 🔬 Ciência de Dados e Processamento
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-### 🖥️ Front-end & Build
+### 🖥️ Front-end e Build
+
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de Dados
+
 <p align="left">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠️ Metodologia, Design & IDE
+### 🛠️ Metodologia, Design e IDE
+
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ## 📌 Contribuições Pessoais
 
-Atuei como desenvolvedora full-stack na equipe Adalove, sendo a principal responsável pela **camada de visualização geográfica e pela integração técnica** entre os ecossistemas de Front-end e Back-end.
+Atuei como **desenvolvedora full-stack**, sendo a principal responsável pela camada de visualização geográfica e pela integração dos componentes relacionados ao mapa interativo.
 
-Minha maior contribuição foi a **concepção e implementação do mapa interativo** da plataforma. Utilizando **React** e **TypeScript**, desenvolvi a lógica de visualização espacial que permite ao usuário clicar nos estados brasileiros e visualizar, de forma instantânea, os dados de balança comercial filtrados. Para que isso fosse possível, atuei diretamente na **integração da aplicação**, mapeando os contratos de API no **NestJS** e garantindo que o estado do Front-end reagisse corretamente aos dados providos pelo **Prisma ORM**.
+Minha principal contribuição foi a concepção e implementação do **mapa interativo dos estados brasileiros** com React e TypeScript. A funcionalidade permite selecionar uma unidade federativa e consultar os dados de comércio exterior associados à região.
 
-Além da parte geo, estruturei componentes essenciais da interface utilizando **Vite** para otimização do build, focando em uma experiência de usuário (UX) fluida e responsiva com HTML e **CSS**. No Back-end, colaborei na organização das rotas que alimentavam o mapa, assegurando que o fluxo de dados fosse tipado e seguro de ponta a ponta.
+Para isso, trabalhei na associação das informações econômicas aos elementos geográficos, na organização do estado da interface e na atualização dos dados conforme a interação dos usuários. Também colaborei com a organização das rotas NestJS que alimentavam o mapa e com os contratos de dados consumidos pelo front-end.
 
-No gerenciamento do projeto, utilizei o **Git** para controle de versão e o **Jira** para garantir que as entregas de integração estivessem alinhadas com o cronograma das Sprints.
+### 🎯 Principais Entregas
 
-<h3>Hard Skills</h3>
+- Construção dos componentes de visualização geográfica;
+- Implementação da seleção dos estados e atualização dos dados;
+- Integração do mapa com os serviços da API;
+- Colaboração na organização das rotas em NestJS;
+- Tipagem dos dados e organização dos componentes em React;
+- Estilização e responsividade da interface;
+- Versionamento das alterações e acompanhamento das entregas no Jira.
+
+### Hard Skills
+
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
+
   <br>
   <table align="center">
-    <tr>
-      <th width="300px">Tecnologia / Metodologia</th>
-      <th width="100px">Nota</th>
-      <th width="200px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Node.js & NestJS (API REST)</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
-    <tr>
-      <td>Modelagem ORM</td>
-      <td>★★★☆☆</td>
-      <td>Entendi</td>
-    </tr>
-    <tr>
-      <td>Python & Data Prep</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
-    <tr>
-      <td>React & Vite</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
-    <tr>
-      <td>HTML5 / CSS3</td>
-      <td>★★★★★</td>
-      <td>Sei fazer com autonomia</td>
-    </tr>
-    <tr>
-      <td>UI Design & Prototipação</td>
-      <td>★★★★★</td>
-      <td>Sei fazer com autonomia</td>
-    </tr>
-    <tr>
-      <td>Git / Metodologia Ágil</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
+    <tr><th>Tecnologia / Metodologia</th><th>Nota</th><th>Classificação</th></tr>
+    <tr><td>Node.js e NestJS (API REST)</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
+    <tr><td>Modelagem ORM</td><td>★★★☆☆</td><td>Entendi</td></tr>
+    <tr><td>Python e preparação de dados</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
+    <tr><td>React e Vite</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
+    <tr><td>TypeScript</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
+    <tr><td>HTML5 / CSS3</td><td>★★★★★</td><td>Sei fazer com autonomia</td></tr>
+    <tr><td>UI Design e Prototipação</td><td>★★★★★</td><td>Sei fazer com autonomia</td></tr>
+    <tr><td>Git / Metodologia Ágil</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
   </table>
 </details>
 
-<h3>Soft Skills</h3>
+### Soft Skills
+
 <details>
   <summary><b>Clique para ver a lista de soft skills</b></summary>
+
   <br>
   <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="200px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Visão Sistêmica</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Adaptabilidade</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Trabalho em Equipe</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆</td>
-    </tr>
+    <tr><th>Habilidade</th><th>Autoavaliação</th></tr>
+    <tr><td>Visão Sistêmica</td><td>★★★★☆</td></tr>
+    <tr><td>Adaptabilidade</td><td>★★★★★</td></tr>
+    <tr><td>Trabalho em Equipe</td><td>★★★★★</td></tr>
+    <tr><td>Comunicação Assertiva</td><td>★★★★☆</td></tr>
+    <tr><td>Organização e Planejamento</td><td>★★★★☆</td></tr>
   </table>
 </details>
-<br>
 
-As duas habilidades comportamentais (Soft Skills) mais significativas para mim durante este projeto foram:
+Exemplos de aplicação durante o projeto:
 
-* **Visão Sistêmica:** Fundamental para o meu papel de integração Full-Stack. Para fazer o mapa interativo funcionar, precisei compreender o fluxo completo da aplicação, desde como os dados eram estruturados e expostos pela API no NestJS até como o Front-end em React consumia e gerenciava o estado dessas informações para exibi-las visualmente ao usuário.
-* **Adaptabilidade:** A transição para uma stack robusta baseada em TypeScript, Node.js e React exigiu um aprendizado contínuo. Tive que me adaptar rapidamente à tipagem estática e à lógica de componentização do React para garantir a entrega e a performance da visualização geográfica dentro do prazo das Sprints.
-
-<br>
+- **Visão sistêmica:** para implementar o mapa, precisei compreender o fluxo de informações entre a API e os componentes da interface.
+- **Adaptabilidade:** a utilização de React, TypeScript e NestJS exigiu aprender novos conceitos de componentização e integração.
+- **Comunicação técnica:** a integração do mapa demandou alinhamento dos contratos da API e a apresentação no PyDay permitiu exercitar a exposição dos resultados.
 
 ## 📅 Metodologia e Sprints
 
-O projeto foi gerenciado e entregue seguindo o framework **Scrum**, estruturado em 4 Sprints focadas na agregação contínua de valor ao produto:
+O desenvolvimento seguiu Scrum, com três sprints concluídas, conforme o backlog oficial da equipe.
 
-* **Sprint 1:** Tratamento inicial das bases de dados abertas de comércio exterior, prototipação das interfaces de dashboards no Figma e montagem do esqueleto da API.
-* **Sprint 2:** Implementação do Front-end em TypeScript/React, criação dos componentes visuais e desenvolvimento dos endpoints de consulta no Back-end.
-* **Sprint 3:** Integração completa entre Front-end e Back-end, aplicação dos filtros combinados por Estado/Produto e renderização dos gráficos de importação/exportação.
-* **Sprint 4:** Otimização das consultas ao banco para grandes volumes de dados, polimento da interface, testes finais de responsividade e entrega final da solução.
+| Sprint | Foco das entregas |
+|---|---|
+| Sprint 1 | Limpeza e normalização das bases no Google Colab, documentação dos dados, persistência e integração inicial entre front-end e back-end. |
+| Sprint 2 | Consultas por estado, estruturação da API, pesquisa por NCM e painel de modais de transporte. |
+| Sprint 3 | Filtros históricos, exportação de dados, mapa interativo e disponibilização da aplicação em nuvem. |
+
+[Consultar documentação, backlogs e demonstrações da equipe](https://github.com/equipeAdalove/API-SEMESTRE3)
+
+## 📚 Aprendizados
+
+O AdaTrade possibilitou aprofundar meus conhecimentos em visualização geográfica, React, TypeScript e integração de APIs. A implementação do mapa mostrou a importância da consistência dos dados, do gerenciamento de estado e da compreensão do fluxo completo da aplicação. Também desenvolvi minha visão sistêmica e comunicação técnica, especialmente com a apresentação no PyDay.
 
 ---
-[⬅️ Voltar para o Menu Principal](https://github.com/Madhs31/Portfolio_Projetos_ADS)
+
+[⬅️ Voltar para o Menu Principal](../README.md)

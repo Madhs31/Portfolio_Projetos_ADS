@@ -81,8 +81,6 @@ Desenvolvi cabeçalhos, rodapés e páginas institucionais, utilizando HTML, CSS
 
 ### Hard Skills
 
-<!-- Revisar os níveis sugeridos de Python/Flask e JavaScript conforme a autonomia real no semestre. -->
-
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
 
@@ -99,8 +97,6 @@ Desenvolvi cabeçalhos, rodapés e páginas institucionais, utilizando HTML, CSS
     <tr><td>Scrum (Dev Team)</td><td>★★☆☆☆</td><td>Já ouvi falar</td></tr>
   </table>
 </details>
-
-> **Legenda:** ★☆☆☆☆ — Ainda não conheço; ★★☆☆☆ — Já ouvi falar; ★★★☆☆ — Entendi; ★★★★☆ — Sei fazer com ajuda; ★★★★★ — Sei fazer com autonomia. A avaliação se refere ao período do projeto, e não a certificações ou ao domínio integral da ferramenta.
 
 ### Soft Skills
 

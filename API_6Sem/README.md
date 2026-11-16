@@ -203,8 +203,8 @@ Durante o desenvolvimento, participei das atividades relacionadas a testes autom
     </tr>
     <tr>
       <td>Python, FastAPI e Integração de IA</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Keycloak e Autenticação JWT</td>
@@ -213,8 +213,8 @@ Durante o desenvolvimento, participei das atividades relacionadas a testes autom
     </tr>
     <tr>
       <td>PostgreSQL e Migrações de Banco de Dados</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>RabbitMQ e Processamento Assíncrono</td>

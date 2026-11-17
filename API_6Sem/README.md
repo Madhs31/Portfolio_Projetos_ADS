@@ -37,8 +37,6 @@ Diante desse cenário, a solução busca centralizar a definição das regras, a
 - 🔐 **Autenticação e Controle de Acesso:** gerenciamento das sessões e proteção dos recursos da aplicação.
 - 📋 **Auditoria e Explicabilidade:** recursos relacionados à rastreabilidade e à compreensão dos processamentos, previstos no escopo da terceira sprint.
 
-> As funcionalidades apresentadas correspondem ao escopo geral do projeto. As entregas visuais parciais e as funcionalidades previstas para etapas posteriores são diferenciadas das integrações já realizadas.
-
 ### 🛠️ Arquitetura do Sistema
 
 <a id="arq"></a>

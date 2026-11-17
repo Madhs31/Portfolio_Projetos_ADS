@@ -138,8 +138,6 @@ Durante todo o desenvolvimento, utilizei **Git e GitHub** para versionar as alte
 
 <h3>Hard Skills</h3>
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
   <table align="center">
     <tr>
@@ -187,8 +185,6 @@ Durante todo o desenvolvimento, utilizei **Git e GitHub** para versionar as alte
 
 <h3>Soft Skills</h3>
 
-<details>
-  <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
   <table align="center">
     <tr>

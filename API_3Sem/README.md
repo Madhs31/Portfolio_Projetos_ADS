@@ -121,9 +121,6 @@ Essas atividades exigiram compreender o funcionamento das diferentes camadas da 
 
 ### Hard Skills
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-
   <br>
   <table align="center">
     <tr><th>Tecnologia / Metodologia</th><th>Nota</th><th>Classificação</th></tr>
@@ -136,12 +133,8 @@ Essas atividades exigiram compreender o funcionamento das diferentes camadas da 
     <tr><td>UI Design e Prototipação</td><td>★★★★★</td><td>Sei fazer com autonomia</td></tr>
     <tr><td>Git / Metodologia Ágil</td><td>★★★★☆</td><td>Sei fazer com ajuda</td></tr>
   </table>
-</details>
-
+  
 ### Soft Skills
-
-<details>
-  <summary><b>Clique para ver a lista de soft skills</b></summary>
 
   <br>
   <table align="center">
@@ -152,7 +145,6 @@ Essas atividades exigiram compreender o funcionamento das diferentes camadas da 
     <tr><td>Comunicação Assertiva</td><td>★★★★☆</td></tr>
     <tr><td>Organização e Planejamento</td><td>★★★★☆</td></tr>
   </table>
-</details>
 
 Exemplos de aplicação durante o projeto:
 

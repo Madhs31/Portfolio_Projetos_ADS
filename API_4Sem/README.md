@@ -118,9 +118,6 @@ A tipagem estática auxiliou na identificação de incompatibilidades durante o 
 
 ### Hard Skills
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-
   <br>
   <table align="center">
     <tr><th>Tecnologia / Metodologia</th><th>Nota</th><th>Classificação</th></tr>
@@ -132,12 +129,8 @@ A tipagem estática auxiliou na identificação de incompatibilidades durante o 
     <tr><td>HTML5 / CSS3 / Figma</td><td>★★★★★</td><td>Sei fazer com autonomia</td></tr>
     <tr><td>Git / Jira / Slack</td><td>★★★★★</td><td>Sei fazer com autonomia</td></tr>
   </table>
-</details>
 
 ### Soft Skills
-
-<details>
-  <summary><b>Clique para ver a lista de soft skills</b></summary>
 
   <br>
   <table align="center">
@@ -148,7 +141,6 @@ A tipagem estática auxiliou na identificação de incompatibilidades durante o 
     <tr><td>Comunicação Assertiva</td><td>★★★★★</td></tr>
     <tr><td>Resolução de Problemas</td><td>★★★★★</td></tr>
   </table>
-</details>
 
 Exemplos de aplicação durante o projeto:
 

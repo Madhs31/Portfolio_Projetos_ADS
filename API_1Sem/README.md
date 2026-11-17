@@ -81,9 +81,6 @@ Desenvolvi cabeçalhos, rodapés e páginas institucionais, utilizando HTML, CSS
 
 ### Hard Skills
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-
   <br>
   <table align="center">
     <tr><th>Tecnologia / Metodologia</th><th>Nota</th><th>Classificação</th></tr>
@@ -96,12 +93,8 @@ Desenvolvi cabeçalhos, rodapés e páginas institucionais, utilizando HTML, CSS
     <tr><td>Figma (UI Design)</td><td>★★☆☆☆</td><td>Já ouvi falar</td></tr>
     <tr><td>Scrum (Dev Team)</td><td>★★☆☆☆</td><td>Já ouvi falar</td></tr>
   </table>
-</details>
 
 ### Soft Skills
-
-<details>
-  <summary><b>Clique para ver a lista de soft skills</b></summary>
 
   <br>
   <table align="center">
@@ -112,7 +105,6 @@ Desenvolvi cabeçalhos, rodapés e páginas institucionais, utilizando HTML, CSS
     <tr><td>Organização e Planejamento</td><td>★★★☆☆</td></tr>
     <tr><td>Resiliência</td><td>★★★☆☆</td></tr>
   </table>
-</details>
 
 Exemplos de aplicação durante o projeto:
 

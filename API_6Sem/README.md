@@ -175,9 +175,6 @@ Durante o desenvolvimento, participei das atividades relacionadas a testes autom
 
 ### Hard Skills
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-
   <br>
 
   <table align="center">
@@ -232,12 +229,8 @@ Durante o desenvolvimento, participei das atividades relacionadas a testes autom
       <td>Sei fazer com autonomia</td>
     </tr>
   </table>
-</details>
 
 ### Soft Skills
-
-<details>
-  <summary><b>Clique para ver a lista de soft skills</b></summary>
 
   <br>
 
@@ -267,7 +260,6 @@ Durante o desenvolvimento, participei das atividades relacionadas a testes autom
       <td>★★★★★</td>
     </tr>
   </table>
-</details>
 
 <br>
 

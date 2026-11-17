@@ -25,11 +25,25 @@ Atuo na área de suporte em geotecnologias na empresa **Optimus — Geosolutions
 
 Essa vivência complementa minha formação acadêmica, proporcionando contato com ambientes corporativos, investigação de falhas e manutenção de sistemas.
 
+## 🎓 Continuidade Acadêmica e Perspectivas de Formação
+
+Como parte do meu planejamento de desenvolvimento acadêmico e profissional, participo atualmente do **processo seletivo para ingresso no mestrado em Engenharia e Tecnologia Espaciais**, na área de **Sistemas Espaciais e Tecnologias Associadas (SET)**, do **Instituto Nacional de Pesquisas Espaciais (INPE)**, referente ao primeiro período de 2027.
+
+A participação nesse processo seletivo representa uma iniciativa de continuidade da minha formação, buscando aprofundar os conhecimentos adquiridos durante a graduação e ampliar sua aplicação em áreas interdisciplinares relacionadas à computação, à engenharia e às tecnologias espaciais.
+
+Meu interesse está especialmente relacionado à integração entre desenvolvimento de software, automação, inteligência artificial e sistemas tecnológicos aplicados à engenharia.
+
+A experiência adquirida nos projetos acadêmicos e na atuação profissional contribuiu para esse direcionamento, permitindo compreender a importância da integração entre diferentes tecnologias, da análise de problemas complexos e da construção de soluções computacionais.
+
+O processo seletivo encontra-se em andamento, não representando ainda aprovação definitiva ou vínculo como estudante de mestrado.
+
 ## 🎯 Objetivo do Repositório
 
 Este repositório reúne os seis projetos de Aprendizagem por Projetos Integrados desenvolvidos durante a graduação. Além de apresentar as soluções das equipes, o portfólio registra **minhas contribuições individuais, competências e evolução técnica e comportamental**.
 
 Cada projeto apresenta o parceiro de negócio, o desafio, a solução, as tecnologias, as demonstrações, minhas entregas, a autoavaliação das competências e os aprendizados do semestre.
+
+O objetivo é documentar minha trajetória acadêmica, demonstrando a evolução dos conhecimentos e das responsabilidades assumidas ao longo dos projetos, bem como a aplicação prática dos conteúdos estudados durante o curso.
 
 ## 🚀 Projetos Desenvolvidos
 
@@ -41,8 +55,6 @@ Cada projeto apresenta o parceiro de negócio, o desafio, a solução, as tecnol
 | 4º — 2025-2 | **AdaTech** | TecSys | Front-end | Apoio à instrução de registro aduaneiro com extração de dados, sugestões de IA, revisão e exportação. | [🔗 Ver mais](./API_4Sem/README.md) |
 | 5º — 2026-1 | **SyncDesk** | Pro4Tech | Front-end | Atendimento integrado por aplicações web e mobile, com chat, triagem e chamados. | [🔗 Ver mais](./API_5Sem/README.md) |
 | 6º — 2026-2 | **Synapse** | Dom Rock | Full-stack | Definição e simulação de regras de comissionamento com apoio de IA. | [🔗 Ver mais](./API_6Sem/README.md) |
-
-> O Synapse permanece em desenvolvimento no recorte de 16/11/2026. Os demais projetos correspondem a semestres concluídos.
 
 ## 💻 Conhecimentos Técnicos
 
@@ -139,7 +151,7 @@ Os exemplos de aplicação dessas competências estão registrados em cada proje
 |---|---|
 | Aprenda Scrum | Fundamentos de desenvolvimento web, componentes responsivos e Flask. |
 | MindDoc Analyzer | Programação orientada a objetos, persistência de dados e testes unitários. |
-| AdaTrade | Visualização geográfica, React, TypeScript e integração entre interface e API. |
+| AdaTrade | Visualização geográfica, React, TypeScript, integração entre interface e API e apresentação no PyDay São José dos Campos. |
 | AdaTech | Interfaces corporativas e integração com processamento de documentos e IA. |
 | SyncDesk | Estruturação de front-end, integração com biblioteca compartilhada, autenticação, chamados e relatórios. |
 | Synapse | Desenvolvimento full-stack, serviços distribuídos, autenticação, simulação e processamento de voz com IA. |
